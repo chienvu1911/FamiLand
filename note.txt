@@ -1,0 +1,2 @@
+- Sử dụng bootswatch(bootstrap.css) để làm css
+- Sử dụng React Bootstrap để sử dụng các component build sẵn (vẫn bị ảnh hưởng bởi css trên)
