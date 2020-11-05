@@ -1,2 +1,3 @@
 - Sử dụng bootswatch(bootstrap.css) để làm css
 - Sử dụng React Bootstrap để sử dụng các component build sẵn (vẫn bị ảnh hưởng bởi css trên)
+- https://www.bravebits.co/ket-hop-create-react-app-voi-expressjs-server-trong-mot-not-nhac/
